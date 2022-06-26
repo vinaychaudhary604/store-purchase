@@ -58,16 +58,7 @@ password: admin123
 
 ** \*\*Also Deploy our project on web host infinityfree\*\ **
 Our Website link http://iiitl-store-automation.epizy.com/
-
-**By:** Group 28
-
-**Members:**
-
-Amit Meena - LIT2019052
-
-Vijay Pratap - LIT2019015
-
-Keshav Kumar - LIT2019055
+ 
 
 Vinay Chaudhary - LIT2019041
 
